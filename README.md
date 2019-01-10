@@ -7,72 +7,64 @@ As analyst for an independwasent gaming company, we were tasked to analyzed data
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 *Data Format:*
-
-* JSON file
+- JSON file
 
 
 *Tools Used:*
+- Python Pandas Library.
+- Jupyter Notebook.
 
-* Python Pandas Library.
-* Jupyter Notebook.
 
-*Final Report:*
+
+*Our Final Report:*
 
 **Player Count**
-
-* Total Number of Players
+- Total Number of Players
 
 **Purchasing Analysis (Total)**
-
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+- Number of Unique Items
+- Average Purchase Price
+- Total Number of Purchases
+- Total Revenue
 
 **Gender Demographics**
-
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+- Percentage and Count of Male Players
+- Percentage and Count of Female Players
+- Percentage and Count of Other / Non-Disclosed
 
 **Purchasing Analysis (Gender)** 
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Normalized Totals
+- The below each broken by gender
+  - Purchase Count
+  - Average Purchase Price
+  - Total Purchase Value
+  - Normalized Totals
 
 **Age Demographics**
-
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.) 
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Normalized Totals
+- The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.) 
+  - Purchase Count
+  - Average Purchase Price
+  - Total Purchase Value
+  - Normalized Totals
 
 **Top Spenders**
-
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
+- Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+  - SN
+  - Purchase Count
+  - Average Purchase Price
+  - Total Purchase Value
 
 **Most Popular Items**
-
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+- Identify the 5 most popular items by purchase count, then list (in a table):
+  - Item ID
+  - Item Name
+  - Purchase Count
+  - Item Price
+  - Total Purchase Value
 
 **Most Profitable Items**
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+- Identify the 5 most profitable items by total purchase value, then list (in a table):
+  - Item ID
+  - Item Name
+  - Purchase Count
+  - Item Price
+  - Total Purchase Value
